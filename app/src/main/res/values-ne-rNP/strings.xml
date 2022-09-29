@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">लगइन फारम</string>
+    <string name="initial_title">सदस्य होइन</string>
+    <string name="initial_title1"><a href="https://www.youtube.com/">अहिले नै दर्ता गर्नुहोस</a></string>
+    <string name="title2">फेरी अभिवादन!</string>
+    <string name="title3">तपाईलाई छुटेको छ भनेर फेरि स्वागत छ</string>
+    <string name="title4">रिकभरी पासवर्ड</string>
+    <string name="title5">वा जारी राख्नुहोस्</string>
+</resources>

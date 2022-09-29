@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_form</string>
+    <string name="initial_title">Not a member?</string>
+    <string name="initial_title1"><a href="https://www.youtube.com/">Register now</a></string>
+    <string name="title2">Hello Again!</string>
+    <string name="title3">Welcome back you\'ve been missed</string>
+    <string name="title4">Recovery password</string>
+    <string name="title5">Or continue with</string>
+
+</resources>
